@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service-invoker/eureka-service-invoker.iml" filepath="$PROJECT_DIR$/eureka-service-invoker/eureka-service-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service-provider/eureka-service-provider.iml" filepath="$PROJECT_DIR$/eureka-service-provider/eureka-service-provider.iml" />
+    </modules>
+  </component>
+</project>
