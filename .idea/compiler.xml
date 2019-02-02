@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="consul-service-provider" />
         <module name="eureka-server" />
         <module name="eureka-service-invoker" />
         <module name="eureka-service-provider" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="consul-service-provider" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka-service-invoker" target="1.8" />
       <module name="eureka-service-provider" target="1.8" />
