@@ -10,12 +10,16 @@
         <module name="eureka-server" />
         <module name="eureka-service-invoker" />
         <module name="eureka-service-provider" />
+        <module name="zookeeper-server" />
+        <module name="zookeeper-service-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka-server" target="1.8" />
       <module name="eureka-service-invoker" target="1.8" />
       <module name="eureka-service-provider" target="1.8" />
+      <module name="zookeeper-server" target="1.8" />
+      <module name="zookeeper-service-provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

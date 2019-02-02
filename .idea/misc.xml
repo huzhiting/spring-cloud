@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-service-invoker/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-service-provider/pom.xml" />
       </list>
     </option>
   </component>

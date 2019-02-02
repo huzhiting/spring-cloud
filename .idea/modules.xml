@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-service-invoker/eureka-service-invoker.iml" filepath="$PROJECT_DIR$/eureka-service-invoker/eureka-service-invoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-service-provider/eureka-service-provider.iml" filepath="$PROJECT_DIR$/eureka-service-provider/eureka-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper-service-provider/zookeeper-service-provider.iml" filepath="$PROJECT_DIR$/zookeeper-service-provider/zookeeper-service-provider.iml" />
     </modules>
   </component>
 </project>
