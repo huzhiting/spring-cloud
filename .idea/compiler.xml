@@ -11,6 +11,7 @@
         <module name="eureka-server" />
         <module name="eureka-service-invoker" />
         <module name="eureka-service-provider" />
+        <module name="springcloud-parent" />
         <module name="zookeeper-server" />
         <module name="zookeeper-service-provider" />
       </profile>
@@ -21,6 +22,7 @@
       <module name="eureka-service-invoker" target="1.8" />
       <module name="eureka-service-provider" target="1.8" />
       <module name="eureka-service-provider-1" target="1.8" />
+      <module name="springcloud-parent" target="1.8" />
       <module name="zookeeper-server" target="1.8" />
       <module name="zookeeper-service-provider" target="1.8" />
     </bytecodeTargetLevel>

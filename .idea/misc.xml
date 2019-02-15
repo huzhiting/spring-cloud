@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springcloud-parent" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -10,6 +13,7 @@
         <option value="$PROJECT_DIR$/zookeeper-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/consul-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-service-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-parent/pom.xml" />
       </list>
     </option>
   </component>
