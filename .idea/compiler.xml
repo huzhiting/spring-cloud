@@ -20,6 +20,7 @@
       <module name="eureka-server" target="1.8" />
       <module name="eureka-service-invoker" target="1.8" />
       <module name="eureka-service-provider" target="1.8" />
+      <module name="eureka-service-provider-1" target="1.8" />
       <module name="zookeeper-server" target="1.8" />
       <module name="zookeeper-service-provider" target="1.8" />
     </bytecodeTargetLevel>

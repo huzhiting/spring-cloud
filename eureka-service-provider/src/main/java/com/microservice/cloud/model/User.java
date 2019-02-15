@@ -29,9 +29,12 @@ public class User {
 
     private Integer age;
 
-    public User(Integer id,String userName,Integer age){
+    private String port;
+
+    public User(Integer id,String userName,Integer age,String port){
        this.id=id;
        this.userName=userName;
        this.age=age;
+       this.port=port;
     }
 }
