@@ -7,13 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="consul-service-provider" />
-        <module name="eureka-server" />
-        <module name="eureka-service-invoker" />
         <module name="eureka-service-provider" />
+        <module name="eureka-server" />
         <module name="springcloud-parent" />
-        <module name="zookeeper-server" />
         <module name="zookeeper-service-provider" />
+        <module name="eureka-service-invoker" />
+        <module name="consul-service-provider" />
+        <module name="zookeeper-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,5 +26,14 @@
       <module name="zookeeper-server" target="1.8" />
       <module name="zookeeper-service-provider" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consul-service-provider" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-service-invoker" options="-parameters" />
+      <module name="eureka-service-provider" options="-parameters" />
+      <module name="zookeeper-service-provider" options="-parameters" />
+    </option>
   </component>
 </project>
