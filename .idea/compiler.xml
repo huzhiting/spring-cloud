@@ -10,8 +10,10 @@
         <module name="eureka-service-provider" />
         <module name="eureka-server" />
         <module name="springcloud-parent" />
+        <module name="nacos-service-invoker" />
         <module name="zookeeper-service-provider" />
         <module name="eureka-service-invoker" />
+        <module name="nacos-service-provider" />
         <module name="consul-service-provider" />
         <module name="zookeeper-server" />
       </profile>
@@ -22,6 +24,8 @@
       <module name="eureka-service-invoker" target="1.8" />
       <module name="eureka-service-provider" target="1.8" />
       <module name="eureka-service-provider-1" target="1.8" />
+      <module name="nacos-service-invoker" target="1.8" />
+      <module name="nacos-service-provider" target="1.8" />
       <module name="springcloud-parent" target="1.8" />
       <module name="zookeeper-server" target="1.8" />
       <module name="zookeeper-service-provider" target="1.8" />
@@ -33,6 +37,8 @@
       <module name="eureka-server" options="-parameters" />
       <module name="eureka-service-invoker" options="-parameters" />
       <module name="eureka-service-provider" options="-parameters" />
+      <module name="nacos-service-invoker" options="-parameters" />
+      <module name="nacos-service-provider" options="-parameters" />
       <module name="zookeeper-service-provider" options="-parameters" />
     </option>
   </component>

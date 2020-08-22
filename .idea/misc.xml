@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/consul-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-service-provider-1/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-service-invoker/pom.xml" />
       </list>
     </option>
   </component>
