@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/springcloud-parent/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-service-invoker/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-spring-cloud-config-yaml/pom.xml" />
       </list>
     </option>
   </component>
